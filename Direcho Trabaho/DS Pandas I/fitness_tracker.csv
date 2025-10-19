@@ -1,0 +1,9 @@
+User_ID,Name,Activity,Duration_min,Calories_burned,Date,Device
+101,Ana,Running,30.0,250.0,2025-10-01,Fitbit
+102,Mark,Cycling,45.0,400.0,2025-10-01,Garmin
+103,Jo,Run,25.0,200.0,2025-10-02,Fitbit
+104,Lea,Yoga,,180.0,2025-10-03,Apple Watch
+105,Marco,running,60.0,,2025-10-03,Garmin
+106,Mia,Swim,40.0,300.0,2025-10-04,Fitbit
+107,Jae,Cycling,55.0,420.0,2025-10-04,Apple Watch
+108,Anna,Yoga,50.0,200.0,2025-10-05,Fitbit

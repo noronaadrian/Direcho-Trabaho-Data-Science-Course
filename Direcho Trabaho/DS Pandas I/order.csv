@@ -1,0 +1,16 @@
+order_id,city,first,middle,last,product_code,product_name,email,channel
+1,Manila,Ana,T.,Reyes,ELC-001,usb_hub,ana@shop.ph,Online
+2,MNL,Bo,R.,Santos,GRC-011,olive_oil,bo@shop.ph,Store
+3,Cebu,Cai,,Lim,HOM-021,plate_set,cai@shop.ph,Online
+4,Davao,Dan,,Uy,ELC-033,webcam,dan@shop.ph,Online
+5,Manila,Ena,,Chu,GRC-013,tea,ena@shop.ph,Store
+6,MNL,Felix,,Ramos,HOM-025,kettle,felix@shop.ph,Online
+7,Cebu,Gia,,Tan,ELC-041,mouse_pad,gia@shop.ph,Store
+8,Davao,Hiro,,Lee,GRC-018,pasta,hiro@shop.ph,Online
+9,Manila,Ian,,Cruz,HOM-029,plate_set,ian@shop.ph,Store
+10,Cebu,Joy,,Go,ELC-055,keyboard,joy@shop.ph,Online
+11,MNL,Kim,,Yu,GRC-022,coffee_beans,kim@shop.ph,Store
+12,Davao,Lou,,Ong,HOM-030,pan,lou@shop.ph,Online
+13,Manila,Max,,Diaz,ELC-060,headphones,max@shop.ph,Online
+14,Cebu,Nia,,Flores,GRC-024,tea_bags,nia@shop.ph,Store
+15,MNL,Oz,,Rey,HOM-034,plate_set,oz@shop.ph,Online
